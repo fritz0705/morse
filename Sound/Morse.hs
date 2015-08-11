@@ -3,6 +3,7 @@ module Sound.Morse
   , encodeMorse
   , morseTable
   , fromChar
+  , morseToBool
   , Morse(..)
   ) where
 
